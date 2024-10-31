@@ -4,6 +4,9 @@ FROM php:8.0-apache
 # Install additional PHP extensions if needed
 RUN docker-php-ext-install mysqli pdo pdo_mysql
 
+# Enable mod_rewrite for Apache
+RUN a2enmod rewrite
+
 # Copy your application code to the container
 COPY . /var/www/html
 
