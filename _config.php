@@ -3,7 +3,7 @@
 $websiteTitle = "AniKatsu"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
-$contactEmail = "xyz@gmail.com"; // Contact Email
+$contactEmail = "singhanandrajput812@gmail.com"; // Contact Email
 
 $version = "0.3";
 
@@ -11,8 +11,8 @@ $version = "0.3";
 $donate = "#";
 
 // Socials 
-$telegram = "https://t.me/#"; // telegram
-$discord = "https://discord.com/#"; // Discord
+$telegram = "https://t.me/pxd368"; // telegram
+$discord = "https://discord.gg/JhERP8Cc"; // Discord
 $redit = "#"; // Reddit
 $twitter = "#"; // Twitter
  
